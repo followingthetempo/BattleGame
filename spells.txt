@@ -1,0 +1,4 @@
+Crunch 5 10 0.5
+Accelerock 1 7 0.9
+RockSlide 10 10 0.05
+StoneEdge 20 25 0.01
